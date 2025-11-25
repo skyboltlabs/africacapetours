@@ -2,8 +2,8 @@ import { TourPackage, Testimonial, FAQ, NavigationLink, GalleryImage, HeroSlide 
 import { MapPin, Camera, Wine, Plane, Compass, ShieldCheck, Users, Calendar } from 'lucide-react';
 
 export const COMPANY_NAME = "Africa Cape Tours & Adventures";
-export const COMPANY_PHONE = "+27 21 123 4567";
-export const COMPANY_WHATSAPP = "27211234567"; // For WA Link
+export const COMPANY_PHONE = "+27 72 707 6063";
+export const COMPANY_WHATSAPP = "27727076063"; // For WA Link
 export const COMPANY_EMAIL = "bookings@africacapetours.co.za";
 export const COMPANY_ADDRESS = "V&A Waterfront, Cape Town, 8001";
 
